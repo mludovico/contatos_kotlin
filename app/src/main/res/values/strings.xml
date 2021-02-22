@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">contatos_kotlin</string>
+    <string name="contact_item_name">Name</string>
+    <string name="contact_item_number">Number</string>
+</resources>
